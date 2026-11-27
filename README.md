@@ -1,1 +1,1 @@
-# document_management_system
+# document-management-system
